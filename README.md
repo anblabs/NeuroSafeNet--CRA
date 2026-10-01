@@ -1,6 +1,6 @@
 # NeuroSafeNet
 
-> **Conserved biological response states organize nanoparticle biosafety across biological systems**
+> **Conserved biological response states organize nanoparticle biosafety across neurological systems**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn%20%7C%20XGBoost%20%7C%20CatBoost-orange)](https://github.com/)
@@ -38,12 +38,12 @@ Through the synthesis of **599 original reports encompassing 893 experimental co
 ## 🔬 Manuscript Summary & Scientific Highlights
 
 ### Title
-**Conserved biological response states organize nanoparticle biosafety across biological systems**
+**Conserved biological response states organize nanoparticle biosafety across neurological systems**
 
 ### Authors
 Sri Renukadevi Balusamy<sup>1#*</sup>, Davoodbasha Mubarak Ali<sup>2,3#</sup>, Irfan Ullah<sup>4</sup>, Girish Birappa<sup>5</sup>, Samad Abdus<sup>6</sup>, Priyanka Singh<sup>7</sup>, Shadi Rahimi<sup>8</sup>, Sumit Kumar<sup>9</sup>, Mamata Karmacharya<sup>9</sup>, Yeon Ju Kim<sup>6</sup>, Suresh Ramakrishna<sup>5,10</sup>, Ivan Mijakovic<sup>8,11</sup>, Seungae Lee<sup>12*</sup>, Haribalan Perumalsamy<sup>13,14#*</sup>
 
-<sub><sup>#</sup>These authors contributed equally | <sup>*</sup>Corresponding authors: Haribalan Perumalsamy (`harijai2004@hanyang.ac.kr`), Sri Renukadevi Balusamy (`renubalu@sejong.ac.kr`), Seungae Lee (`moon11311@naver.com`)</sub>
+<sub><sup>#</sup>These authors contributed equally | <sup>*</sup>Corresponding authors: Haribalan Perumalsamy (harijai2004@hanyang.ac.kr), Sumit Kumar (sumitwithchem@gmail.com), Seungah Lee (moon11311@naver.com)</sub>
 
 ### Affiliations
 1. Department of Food Science and Biotechnology, Sejong University, Seoul, Republic of Korea
@@ -237,7 +237,7 @@ If you use NeuroSafeNet, the Conserved Response Axis (CRA) framework, or the cur
 
 ```bibtex
 @article{balusamy2026conserved,
-  title={Conserved biological response states organize nanoparticle biosafety across biological systems},
+  title={Conserved biological response states organize nanoparticle biosafety across neurological systems},
   author={Balusamy, Sri Renukadevi and Ali, Davoodbasha Mubarak and Ullah, Irfan and Birappa, Girish and Abdus, Samad and Singh, Priyanka and Rahimi, Shadi and Kumar, Sumit and Karmacharya, Mamata and Kim, Yeon Ju and Ramakrishna, Suresh and Mijakovic, Ivan and Lee, Seungae and Perumalsamy, Haribalan},
   journal={Preprint / Under Review},
   year={2026}
@@ -249,6 +249,6 @@ If you use NeuroSafeNet, the Conserved Response Axis (CRA) framework, or the cur
 ##  Contact
 
 For technical questions regarding the code, data pipelines, or models, please open an issue on GitHub or contact:
-- **Haribalan Perumalsamy**: `harijai2004@hanyang.ac.kr`
-- **Sri Renukadevi Balusamy**: `renubalu@sejong.ac.kr`
-- **Seungae Lee**: `moon11311@naver.com`
+- **Haribalan Perumalsamy**: harijai2004@hanyang.ac.kr
+- **Sumit Kumar**: sumitwithchem@gmail.com
+- **Seungah Lee**: moon11311@naver.com
